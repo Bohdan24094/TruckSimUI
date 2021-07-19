@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: _iconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f0beb886d1ce91a4ca8a99037a794ee2, type: 3}
+    - {fileID: 2800000, guid: 359d808cee0c8794993c78eb81cd9b6a, type: 3}
+    - {fileID: 2800000, guid: 272edfcd2d2cdf9499a9a1833f7342bc, type: 3}
+    - {fileID: 2800000, guid: 9367cb26f2318684e8cb75d123445891, type: 3}
+    - {fileID: 2800000, guid: 2e9e7d52cde1f354a8fa2e33692d9b75, type: 3}
+    - {fileID: 2800000, guid: 2e3b4c57e255cde409c396e3615989a8, type: 3}
+    - {fileID: 2800000, guid: ef94daa66bea55a4ba624f034a8f3a89, type: 3}
+    - {fileID: 2800000, guid: faacc1a545677d343b3a421d6ede93b4, type: 3}
+    - {fileID: 2800000, guid: 7c9acb1035355ad4da35c916ae7c60a2, type: 3}
+    - {fileID: 2800000, guid: 20332b29a1d8ec049950708996d70def, type: 3}
+    - {fileID: 2800000, guid: cb72886a00134fb4eb7f619398fd7ba1, type: 3}
+    - {fileID: 2800000, guid: f7696b2cc11c4844e8dff3b3d74a224c, type: 3}
+    - {fileID: 2800000, guid: 9bb910fdc4e6eb646a8d396e687b3fb7, type: 3}
+    - {fileID: 2800000, guid: 7aa3c51baf3ef2a449a98058c7dffdc8, type: 3}
+    - {fileID: 2800000, guid: db0c923f387bb9b4abd61f6b7005a233, type: 3}
+    - {fileID: 2800000, guid: f08c6f6dd23f1184e831c03484bea835, type: 3}
+    - {fileID: 2800000, guid: 99902fc3b4ec73b42bbe0ae25fa4cb44, type: 3}
+    - {fileID: 2800000, guid: 49fcc5193590ee446ba7fbd0dae79cff, type: 3}
+    - {fileID: 2800000, guid: d544580883b4d2a458482c97a3a2d6fb, type: 3}
+    - {fileID: 2800000, guid: 855083dc15ce55945a39721a4670ac69, type: 3}
+    - {fileID: 2800000, guid: 34a87ba7e98361a439c7671fefcf92f1, type: 3}
+    - {fileID: 2800000, guid: d4844822a55df0b43b29517fd94b3507, type: 3}
+    totalSpriteSurfaceArea: 3994364
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7c9acb1035355ad4da35c916ae7c60a2, type: 3}
+  - {fileID: 21300000, guid: d4844822a55df0b43b29517fd94b3507, type: 3}
+  - {fileID: 21300000, guid: 2e9e7d52cde1f354a8fa2e33692d9b75, type: 3}
+  - {fileID: 21300000, guid: 99902fc3b4ec73b42bbe0ae25fa4cb44, type: 3}
+  - {fileID: 21300000, guid: faacc1a545677d343b3a421d6ede93b4, type: 3}
+  - {fileID: 21300000, guid: 9367cb26f2318684e8cb75d123445891, type: 3}
+  - {fileID: 21300000, guid: f0beb886d1ce91a4ca8a99037a794ee2, type: 3}
+  - {fileID: 21300000, guid: ef94daa66bea55a4ba624f034a8f3a89, type: 3}
+  - {fileID: 21300000, guid: 2e3b4c57e255cde409c396e3615989a8, type: 3}
+  - {fileID: 21300000, guid: 34a87ba7e98361a439c7671fefcf92f1, type: 3}
+  - {fileID: 21300000, guid: d544580883b4d2a458482c97a3a2d6fb, type: 3}
+  - {fileID: 21300000, guid: 49fcc5193590ee446ba7fbd0dae79cff, type: 3}
+  - {fileID: 21300000, guid: 20332b29a1d8ec049950708996d70def, type: 3}
+  - {fileID: 21300000, guid: cb72886a00134fb4eb7f619398fd7ba1, type: 3}
+  - {fileID: 21300000, guid: 7aa3c51baf3ef2a449a98058c7dffdc8, type: 3}
+  - {fileID: 21300000, guid: f7696b2cc11c4844e8dff3b3d74a224c, type: 3}
+  - {fileID: 21300000, guid: 359d808cee0c8794993c78eb81cd9b6a, type: 3}
+  - {fileID: 21300000, guid: 855083dc15ce55945a39721a4670ac69, type: 3}
+  - {fileID: 21300000, guid: f08c6f6dd23f1184e831c03484bea835, type: 3}
+  - {fileID: 21300000, guid: 272edfcd2d2cdf9499a9a1833f7342bc, type: 3}
+  - {fileID: 21300000, guid: 9bb910fdc4e6eb646a8d396e687b3fb7, type: 3}
+  - {fileID: 21300000, guid: db0c923f387bb9b4abd61f6b7005a233, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - coinBgShadow
+  - sportcar
+  - car
+  - newCarBg
+  - coinBag
+  - bigCoin
+  - backBttn
+  - Coin
+  - carBg
+  - specialView
+  - profitBg
+  - nextBttn
+  - coinsBg
+  - coinShadow
+  - edge
+  - colorBttn
+  - bgCosts
+  - scale
+  - getCoins
+  - bgShaddow
+  - distance
+  - garbage
+  m_Tag: _iconAtlas
+  m_IsVariant: 0
